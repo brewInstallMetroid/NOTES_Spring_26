@@ -11,7 +11,7 @@
         - the "reverse" of a string is obtained by writing symbols in reverse order::
             w_reversed = aaaba
         - the "length" of a string, |w|::
-            |\\\lambda| = 0 // λ will be used to denote the empty string frequently in this course
+            |λ| = 0 // λ will be used to denote the empty string frequently in this course
         - a "substring" of w is any string of consecutive symbols in some w
             w = vu // w is composed of 2 substrings, v and u
         !- if w is a string, then w^n stands for the string obtained by repeating w n times
