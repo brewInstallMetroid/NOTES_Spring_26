@@ -61,7 +61,7 @@ a set of languages a family of languages
 - A language L is called REGULAR if and only if there exists some deterministic
 finite accepter M such that L = L(M)
 ^    - so basically, all we have to do to show that a language is regular is find
-    a dfa for it
+^    a dfa for it
 
 ? VIDEO NOTES::
 - basically, to tell if a given string/word will be accepted, walk through the
